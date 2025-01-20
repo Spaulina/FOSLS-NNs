@@ -4,5 +4,6 @@ Participantes del proyecto:
 Paulina Sepúlveda  
 Francisca Álvarez  
 Laura Sobarzo  
+funciono
 
 
